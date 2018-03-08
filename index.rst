@@ -66,6 +66,11 @@ The Software Engineering Institute regularly publishes podcast about AADL. The p
 
 The podcasts are available on the `SEI podcast series <https://resources.sei.cmu.edu/library/results.cfm?as_q=inmeta:AssetType~Podcast>`_ under the Software Architecture category. They are also available on the `iTunes store under the Software Engineering Institute Podcast Series <https://itunes.apple.com/us/itunes-u/software-engineering-institute/id566573552?mt=10>`_. 
 
+Research Publications
+---------------------
+
+The AADL language and tools are used in many `industrial or academic projects <https://wiki.sei.cmu.edu/aadl/index.php/Projects_and_Initiatives>`_. The AADL wiki has a dedicated section that maintains a `list of existing publications <https://wiki.sei.cmu.edu/aadl/index.php/AADL_Related_Publications>`_ organized by topics, years, etc. 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
