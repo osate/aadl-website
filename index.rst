@@ -71,6 +71,13 @@ Research Publications
 
 The AADL language and tools are used in many `industrial or academic projects <https://wiki.sei.cmu.edu/aadl/index.php/Projects_and_Initiatives>`_. The AADL wiki has a dedicated section that maintains a `list of existing publications <https://wiki.sei.cmu.edu/aadl/index.php/AADL_Related_Publications>`_ organized by topics, years, etc. 
 
+Tutorials, Demonstrations, and Teaching
+---------------------------------------
+
+There are a few demonstrations available online. Most of them are available online and `listed on the AADL wiki <https://wiki.sei.cmu.edu/aadl/index.php/Models_examples>`_. Also, the AADL standardization meeting regularly hosts tutorials and tools demonstrations. A `list of all existing tutorials <https://wiki.sei.cmu.edu/aadl/index.php/AADL_Tutorials>`_ is available online.
+
+The Software Engineering Institute also offers specific AADL-related courses. They can be delivered at the Software Engineering Institute or on another specific location. The course are presented by AADL experts that design the language and implement OSATE. They can answer very specific questions related to modeling and the AADL. For more information, please read the `related information on the SEI website <https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=P72>`_. 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
