@@ -78,11 +78,38 @@ There are a few demonstrations available online. Most of them are available onli
 
 The Software Engineering Institute also offers specific AADL-related courses. They can be delivered at the Software Engineering Institute or on another specific location. The course are presented by AADL experts that design the language and implement OSATE. They can answer very specific questions related to modeling and the AADL. For more information, please read the `related information on the SEI website <https://www.sei.cmu.edu/education-outreach/courses/course.cfm?courseCode=P72>`_. 
 
+
+Using AADL
+==========
+
+The AADL language is supported by multiple tools, both open-source or commercial. The SEI maintains the `Open Source Architecture Tool Environment (OSATE) <http://osate.org>`_. All tools use the core AADL language and its extensions in several steps of the development process, such as system design, analysis, validation or implementation.
+
+Getting Started
+===============
+
+
+AADL mailing lists
+------------------
+
+You can contact the AADL community through our `mailing lists <https://wiki.sei.cmu.edu/aadl/index.php/Mailing_List>`_. Mailing lists are not open to unregistered members to prevent spam and unsollicitated messages. If you would like to send a message and contact us, you would then need to register to the list that is the most relevant to your topic. You can have the details of mailing-list use on the AADL wiki.
+
+AADL standardization committee
+------------------------------
+
+The AADL standardization committee meets four times a year in various locations accross the United States and Europe. The goals of these meetings is to meet the community, make progress on the language improvements and discuss actual and future work related to AADL. Information of the AADL meetings is available on the `standardization section <https://wiki.sei.cmu.edu/aadl/index.php/Standardization>`_ of the AADL wiki. Check out the `user days section <https://wiki.sei.cmu.edu/aadl/index.php/AADL_User_Days>`_ that contains many useful materials (including demo and presentations) from AADL users.
+
+If you would like to attend and/or participate on the AADL standardization committee meeting, please contact us on our mailing lists. We welcome all contributions and are always looking for innovative work and new contributions.
+
+Conferences and Research activities
+-----------------------------------
+
+Model-Based Engineering has many impact on the different aspects of software development. Many technologies are using the language for system design, validation, analysis or code generation. You can find AADL-related articles in many scientific conferences and events. We maintain `a list <https://wiki.sei.cmu.edu/aadl/index.php/AADL-Related_Conferences>`_ of coming and past scientific conferences/events related to the technology.
+
+The AADL community organize the Architecture-Centric Virtual Integration (ACVI) workshop. Details about the event and its `past editions are available online <http://www.aadl.info/aadl/acvi/>`_.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
 
 Indices and tables
 ==================
